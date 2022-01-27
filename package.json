@@ -1,0 +1,17 @@
+{
+  "name": "resthub",
+  "version": "1.0.0",
+  "description": "An app demonstrating simple restful API implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
+    "ngrok": "^4.2.2"
+  }
+}
